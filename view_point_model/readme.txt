@@ -1,1 +1,1 @@
-Use the UFC50 dataset for training the model
+Used the UFC50 dataset for training the model
